@@ -1,4 +1,4 @@
-﻿namespace SimpleProgram
+namespace SimpleProgram
 {
     partial class Form1
     {
@@ -31,9 +31,6 @@
             this.components = new System.ComponentModel.Container();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.SuspendLayout();
-            // 
-            // button1
-            //
             // 
             // pictureBox1
             // 
