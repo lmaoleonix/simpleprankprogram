@@ -1,0 +1,1 @@
+A simple program that was wrote in C#, I will only post the Form1.cs and Form1.Designer.Cs files and a built version of the app. (I used Windows Forms App (.NET Framework)) !!! Beware that you might need to change the links as I won't update them and the music file type MUST be a .wav, same for photo, just a .jpg file.
